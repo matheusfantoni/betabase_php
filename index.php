@@ -2,8 +2,8 @@
 
 /* 
 Site: betabase
-Autor: Diego Mariano
-Data: 30 de maio, 2017
+Autor: Matheus Fantoni
+
 */
 
 /* Define a página atual pela URL */
